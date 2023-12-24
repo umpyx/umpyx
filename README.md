@@ -1,6 +1,6 @@
 # Umpyx
-I am a student learning C programming and computer science
+Hi.
 
-My [Github Profile](https://github.com/umpyx) hosts some of my personal projects files, and ones that I use for school 
+I hope my programs aren't too repulsive for you, I'm still learning.
 
-cool.
+Thank.
